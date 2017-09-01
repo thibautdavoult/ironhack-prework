@@ -86,3 +86,5 @@ function keyShortcuts() {
   }
   return [rover.direction, rover.travelLog[0], rover.travelLog[1]];
 }
+
+/*addig comments */
